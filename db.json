@@ -4,19 +4,19 @@
 
   "artykuly":[
     {
-      "id":"1",
+      "id":1,
       "tytul":"Podręczniki w promocji",
       "data":"2026-10-02",
       "tresc":"Od poniedziałku są tańsze podręczniki. Staniały o ponad 20%, a od przyszłego tygodnia mają być jeszcze tańsze."
     },
     {
-      "id":"2",
+      "id":2,
       "tytul":"Nowy prezydent",
       "data":"2026-09-16",
       "tresc":"Dzisiaj wybrano nowego prezydenta Kuby. Ciekawe, jak sobie poradzi?"
     },
     {
-      "id":"3",
+      "id":3,
       "tytul":"Prawdziwi kosmici",
       "data":"2026-10-01",
       "tresc":"Odkryliśmy prawdę na temat kosmitów."
