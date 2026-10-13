@@ -4,35 +4,35 @@
     "tytul": "Podręczniki w promocji",
     "data": "2026-10-02",
     "tresc": "Od poniedziałku są tańsze podręczniki. Staniały o ponad 20%, a od przyszłego tygodnia mają być jeszcze tańsze.",
-    "kolorTytulu": "#FF5722",
-    "rozmiarTytulu": 26,
-    "kolorDaty": "#757575",
-    "rozmiarDaty": 13,
-    "kolorTresci": "#212121",
-    "rozmiarTresci": 17
+    "kolorTytulu": "#800938",
+    "rozmiarTytulu": 22,
+    "kolorDaty": "#808080",
+    "rozmiarDaty": 12,
+    "kolorTresci": "#424242",
+    "rozmiarTresci": 19
   },
   {
     "id": 2,
     "tytul": "Nowy prezydent",
     "data": "2026-09-16",
     "tresc": "Dzisiaj wybrano nowego prezydenta Kuby. Ciekawe, jak sobie poradzi?",
-    "kolorTytulu": "#2196F3",
-    "rozmiarTytulu": 30,
-    "kolorDaty": "#607D8B",
+    "kolorTytulu": "#800938",
+    "rozmiarTytulu": 22,
+    "kolorDaty": "#808080",
     "rozmiarDaty": 12,
     "kolorTresci": "#424242",
-    "rozmiarTresci": 18
+    "rozmiarTresci": 19
   },
   {
     "id": 3,
     "tytul": "Prawdziwi kosmici",
     "data": "2026-10-01",
     "tresc": "Odkryliśmy prawdę na temat kosmitów.",
-    "kolorTytulu": "#9C27B0",
-    "rozmiarTytulu": 32,
-    "kolorDaty": "#795548",
+    "kolorTytulu": "#800938",
+    "rozmiarTytulu": 22,
+    "kolorDaty": "#808080",
     "rozmiarDaty": 12,
-    "kolorTresci": "#00695C",
-    "rozmiarTresci": 20
+    "kolorTresci": "#424242",
+    "rozmiarTresci": 19
   }
 ]
