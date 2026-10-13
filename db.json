@@ -1,8 +1,4 @@
-{
-  "calendar":"Mój kalendarz",
-  "timezone":"Europe/Warsaw",
-
-  "artykuly":[
+[
     {
       "id":1,
       "tytul":"Podręczniki w promocji",
@@ -22,4 +18,3 @@
       "tresc":"Odkryliśmy prawdę na temat kosmitów."
     }
   ]
-}
